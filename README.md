@@ -34,13 +34,13 @@ This is a book search engine using the Google Books API. You can login or signup
 <img src = "./images/screenShot1.png"></img>
 <img src = "./images/screenShot2.png"></img>
 
+
+
 <a href = "links"></a>
 
 ## Links
 
 [Repository](https://github.com/joecliffordofficial/bookSearchEngine)
-
-[Video](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/26802304-869a-42b2-yfda-487a1788b05d)
 
 [Heroku](https://book-search-engine-mern-jc.herokuapp.com/)
 
